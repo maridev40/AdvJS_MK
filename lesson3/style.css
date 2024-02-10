@@ -1,0 +1,22 @@
+.center {
+    padding-left: calc(50% - 570px);
+    padding-right: calc(50% - 570px);
+  }
+
+.product_width {
+    width: 50%;
+}
+
+.product_column {
+    display: flex;
+    flex-direction: column;
+}
+
+.product_row {
+    display: flex;
+    flex-direction: row;
+}
+
+.review_justify {
+    justify-content: space-between;
+}
